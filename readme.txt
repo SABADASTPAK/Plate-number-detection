@@ -75,11 +75,8 @@ This project demonstrates a simple yet effective **OCR pipeline** for recognizin
 ## 🖼️ Results
 
 
-| Input Image | Detected Plate | Recognized Characters |
-|------------|----------------|-----------------------|
-| *(Add Image)* | *(Add Image)* | `ABC123` |
+![Result Example](images/results.png)
 
-> 📌 Replace with your actual results screenshots.
 
 ---
 
