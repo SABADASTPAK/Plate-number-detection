@@ -75,7 +75,7 @@ This project demonstrates a simple yet effective **OCR pipeline** for recognizin
 ## 🖼️ Results
 
 
-![Result Example](images/results.png)
+![Result Example](images/results.PNG)
 
 
 ---
